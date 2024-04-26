@@ -1,0 +1,8 @@
+name = "JAX"
+uuid = "c2a0e4d4-6e89-4de2-973f-b6b0fe37eeab"
+authors = ["McCoy Becker <mccoybecker@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
